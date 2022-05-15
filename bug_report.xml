@@ -1,10 +1,15 @@
-<NumberBugs>14</NumberbBugs>
-<Severity>Hight</Severity>
-<Summary>Десктопное приложение после установки через инсталятор и запуска, открывается свернутым</Summary>
-<StepsToReproduce1.>Установить приложение через инсталятор</StepsToReproduce1.>
-<StepsToReproduce2.>Запустить приложение по exe файлу</StepsToReproduce2.>
-<ExpectedResult>Появилось окно приложения на рабочем столе</ExpectedResult>
-<ActualResult>Окно приложения не появляется, приложение находится свернутым в трее</ActualResult>
-<Reproducibility>Всегда</Reproducibility>
-<Attachments>https://drive.google.com/file/d/1sAYyKiKgC8hhOdXOU_Ju7b2nlIFc_m5i/view?usp=sharing</Attachments>
-<ДатаОформленияБага>02.05.2022</ДатаОформленияБага>
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_report>
+   <NumberBugs>14</NumberbBugs>
+   <Severity>Hight</Severity>
+   <Summary>Десктопное приложение после установки через инсталятор и запуска, открывается свернутым</Summary>
+   <StepsToReproduce>
+       <Step_1>Установить приложение через инсталятор</Steps_1>
+       <Step_2>Запустить приложение по exe файлу</Step_2>
+    </StepsToReproduce>
+    <ExpectedResult>Появилось окно приложения на рабочем столе</ExpectedResult>
+    <ActualResult>Окно приложения не появляется, приложение находится свернутым в трее</ActualResult>
+    <Reproducibility>Всегда</Reproducibility>
+    <Attachments>https://drive.google.com/file/d/1sAYyKiKgC8hhOdXOU_Ju7b2nlIFc_m5i/view?usp=sharing</Attachments>
+    <ДатаОформленияБага>02.05.2022</ДатаОформленияБага>
+</Bug_report>    
